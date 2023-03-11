@@ -1,5 +1,5 @@
 # Capital BikeShare Usage Analysis
-** Abstract**:The study aimed to gain a comprehensive understanding of the impact of Covid-19 on the bike-sharing system's usage patterns and how different types of memberships were affected. Through the analysis of historical bike usage data, the project aimed to identify patterns and trends in the post-pandemic recovery of the bike-sharing system.
+**Abstract**:The study aimed to gain a comprehensive understanding of the impact of Covid-19 on the bike-sharing system's usage patterns and how different types of memberships were affected. Through the analysis of historical bike usage data, the project aimed to identify patterns and trends in the post-pandemic recovery of the bike-sharing system.
 
 The project's methodology involved the use of statistical techniques such as hypothesis testing to establish the significance of the findings. Exploratory data analysis was also used to identify patterns and relationships between variables, including the impact of factors such as weather, season, and time of day on bike usage.
 <br><br>
